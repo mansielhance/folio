@@ -23,7 +23,7 @@ email: mansielhance@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Mansi Elhance's portfolio website. In the meantime, please feel free to drop in ans say Hi at mansielhance@gmail.com :)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "mansielhance.in" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  mansielhance
 
