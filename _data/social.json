@@ -1,0 +1,22 @@
+[
+  {
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/mansielhance/",
+    "image": "images/social/linkedin.svg"
+  },
+  {
+    "name": "Behance",
+    "link": "https://www.behance.net/mansielhance",
+    "image": "images/social/behance.svg"
+  },
+  {
+    "name": "Github",
+    "link": "https://github.com/mansielhance",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Instagram",
+    "link": "https://www.instagram.com/mansielhance/",
+    "image": "images/social/instagram.svg"
+  }
+]

@@ -1,0 +1,19 @@
+.footer {
+  padding-top: 15px;
+
+  .rightEnd{
+    display: flex;
+    flex-direction: row-reverse;
+    float: right;
+  }
+
+  p{
+    padding-top: 0;  
+    .skills{
+      display: flex;
+      float: left;
+      color: $white-offset;
+      opacity: 40%;
+    }
+  }
+}

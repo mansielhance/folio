@@ -1,0 +1,18 @@
+main:
+  - name: "ui/ux design + devlopment"
+    url: "/uiux/"
+    weight: 2
+  - name: "illustrations"
+    url: "/illustrations/"
+    weight: 3
+  - name: "drop a line"
+    url: "mailto:mansielhance@gmail.com"
+    weight: 4
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2
