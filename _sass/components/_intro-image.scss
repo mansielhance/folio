@@ -11,14 +11,14 @@
   }
   @include media-breakpoint-up(md) {
     position: absolute;
-    bottom: -50px;
+    bottom: -60px;
     left: -50px;
     width: 700px;
   }
   @include media-breakpoint-up(lg) {
-    bottom: -60px;
-    left: -60px;
-    width: 800px;
+    bottom: -230px;
+    left: -100px;
+    width: 700px;
   }
   @include media-breakpoint-up(xl) {
     bottom: -300px;
