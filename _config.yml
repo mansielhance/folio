@@ -38,6 +38,9 @@ sass:
 plugins:
   - jekyll-environment-variables
 
+gems:
+  - jekyll-redirect-from
+
 exclude:
   - Gemfile
   - Gemfile.lock
