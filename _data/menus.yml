@@ -1,9 +1,9 @@
 main:
   - name: "ui/ux design + devlopment"
-    url: "/uiux/"
+    url: "https://www.behance.net/mansielhance"
     weight: 2
   - name: "illustrations"
-    url: "/illustrations/"
+    url: "https://www.behance.net/mansielhance"
     weight: 3
   - name: "drop a line"
     url: "mailto:mansielhance@gmail.com"
